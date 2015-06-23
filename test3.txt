@@ -1,1 +1,3 @@
-test3.txt“à—e
+test3.txtå†…å®¹
+
+UTF-8ã«å¤‰æ›´
