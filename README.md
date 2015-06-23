@@ -17,3 +17,7 @@ test2.htmlはいる
 完成。
 
 == masterで合体する
+
+# trial2前に編集
+README.mdがtrial2に反映される？それとも？？
+
