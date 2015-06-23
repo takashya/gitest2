@@ -22,3 +22,8 @@ test2.htmlはいる
 README.mdがtrial2に反映される？それとも？？
 ローカルのmasterに反映された？
 
+
+# trial3
+こっちも編集している場合…
+
+
