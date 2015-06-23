@@ -22,3 +22,7 @@ test2.htmlはいる
 README.mdがtrial2に反映される？それとも？？
 ローカルのmasterに反映された？
 
+# trial3
+練習はこれで終わりにする。
+
+

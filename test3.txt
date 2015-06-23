@@ -1,3 +1,6 @@
 test3.txt内容
 
 UTF-8に変更
+
+// trial3
+README.md, test.html, test2.htmlを編集
