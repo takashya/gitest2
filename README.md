@@ -20,4 +20,5 @@ test2.htmlはいる
 
 # trial2前に編集
 README.mdがtrial2に反映される？それとも？？
+ローカルのmasterに反映された？
 
